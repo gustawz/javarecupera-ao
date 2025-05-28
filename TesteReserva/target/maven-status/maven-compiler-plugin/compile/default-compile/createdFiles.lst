@@ -1,0 +1,5 @@
+br\edu\etec\exercicio1\teste\model\Passageiro.class
+br\edu\etec\exercicio1\teste\TesteReserva.class
+br\edu\etec\exercicio1\teste\model\Reserva.class
+br\edu\etec\exercicio1\teste\model\Voo.class
+br\edu\etec\exercicio1\teste\exceptions\AssentoInvalidoException.class

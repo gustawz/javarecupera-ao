@@ -1,0 +1,8 @@
+br\edu\etec\exercicio1\teste\exceptions\PrecoInvalidoException.class
+br\edu\etec\exercicio1\teste\model\Livro.class
+br\edu\etec\exercicio1\teste\model\Pedido.class
+br\edu\etec\exercicio1\teste\model\Produto.class
+br\edu\etec\exercicio1\teste\TestePedidos.class
+br\edu\etec\exercicio1\teste\model\Roupa.class
+br\edu\etec\exercicio1\teste\exceptions\QuantidadeInvalidaException.class
+br\edu\etec\exercicio1\teste\model\Eletronico.class
